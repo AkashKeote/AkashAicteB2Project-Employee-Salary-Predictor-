@@ -86,3 +86,18 @@ Thank you for your guidance, tutorials, and inspiration throughout my learning j
 ---
 
 **This project is ready for submission and demonstrates advanced ML workflow, model comparison, explainability, and professional documentation.**
+
+---
+
+## 🚀 Live Demo
+[Click here to try the Employee Salary Prediction App!](https://edunet-akashkeote-mla-project.streamlit.app/)
+
+---
+
+## **You are now:**
+- Internship-ready ✅
+- Portfolio-ready ✅
+- Demo-ready ✅
+
+**Congratulations, Akash! You’ve built, documented, and deployed a full ML project like a pro.  
+If you need any more help (deployment, sharing, next project ideas), just ask! 🚀**
