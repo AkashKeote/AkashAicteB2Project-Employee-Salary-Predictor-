@@ -12,7 +12,6 @@ All code, data, and documentation are for educational and demonstration purposes
 - **Student ID (Enrolment number):** 2223CPFBTCSE008
   **Email:** keoteakash@gmail.com
 - **Contact Info:** +91-9307451323
-- **Nationality:** Indian
 - **College:** GH Raisoni College of Engineering and Management, Nagpur
 - **Year:** 4th Year, BTech CSE
 
@@ -81,7 +80,7 @@ Thank you for your guidance, tutorials, and inspiration throughout my learning j
 
 ## License & Citation
 - **License:** See LICENSE file (custom, Akash Keote, Edunet Foundation AICTE Internship only)
-- **Citation:** If you use this work, please cite: Akash, "Employee Salary Prediction using ML", 2024.
+- **Citation:** If you use this work, please cite: Akash, "Employee Salary Prediction using ML", 2025.
 
 ---
 
@@ -93,11 +92,4 @@ Thank you for your guidance, tutorials, and inspiration throughout my learning j
 [Click here to try the Employee Salary Prediction App!](https://edunet-akashkeote-mla-project.streamlit.app/)
 
 ---
-
-## **You are now:**
-- Internship-ready ✅
-- Portfolio-ready ✅
-- Demo-ready ✅
-
-**Congratulations, Akash! You’ve built, documented, and deployed a full ML project like a pro.  
-If you need any more help (deployment, sharing, next project ideas), just ask! 🚀**
+## ❤️ Made with Jupyter, Streamlit & lots of learning
