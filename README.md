@@ -81,7 +81,7 @@ Thank you for your guidance, tutorials, and inspiration throughout my learning j
 
 ## License & Citation
 - **License:** See LICENSE file (custom, Akash Keote, Edunet Foundation AICTE Internship only)
-- **Citation:** If you use this work, please cite: Akash, "Employee Salary Prediction using ML", 2024.
+- **Citation:** If you use this work, please cite: Akash, "Employee Salary Prediction using ML", 2025.
 
 ---
 
@@ -94,10 +94,3 @@ Thank you for your guidance, tutorials, and inspiration throughout my learning j
 
 ---
 
-## **You are now:**
-- Internship-ready ✅
-- Portfolio-ready ✅
-- Demo-ready ✅
-
-**Congratulations, Akash! You’ve built, documented, and deployed a full ML project like a pro.  
-If you need any more help (deployment, sharing, next project ideas), just ask! 🚀**
