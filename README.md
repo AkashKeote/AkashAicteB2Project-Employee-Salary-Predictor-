@@ -12,7 +12,6 @@ All code, data, and documentation are for educational and demonstration purposes
 - **Student ID (Enrolment number):** 2223CPFBTCSE008
   **Email:** keoteakash@gmail.com
 - **Contact Info:** +91-9307451323
-- **Nationality:** Indian
 - **College:** GH Raisoni College of Engineering and Management, Nagpur
 - **Year:** 4th Year, BTech CSE
 
