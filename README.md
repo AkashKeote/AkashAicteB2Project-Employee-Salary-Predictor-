@@ -93,4 +93,4 @@ Thank you for your guidance, tutorials, and inspiration throughout my learning j
 [Click here to try the Employee Salary Prediction App!](https://edunet-akashkeote-mla-project.streamlit.app/)
 
 ---
-## Made with love ❤️ jupyter
+## ❤️ Made with Jupyter, Streamlit & lots of learning
